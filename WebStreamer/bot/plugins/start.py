@@ -22,7 +22,7 @@ HELP_TEXT = """
 <i>- Tʜɪs Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n"""
 
 ABOUT_TEXT = """
-<b> 👸Name : {}
+<b>👸Name : DcLinkGenBot</b>\n
 <b>🦹Creator : <a href=https://t.me/YourX>YourX</a></b>
 <b>🤖 Version : 4.0⚡</b>"""
 
